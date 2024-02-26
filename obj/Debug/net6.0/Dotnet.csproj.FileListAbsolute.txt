@@ -1,0 +1,15 @@
+/home/anand.prakash@happiestminds.com/Desktop/Dotnet/obj/Debug/net6.0/Dotnet.csproj.AssemblyReference.cache
+/home/anand.prakash@happiestminds.com/Desktop/Dotnet/obj/Debug/net6.0/Dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/anand.prakash@happiestminds.com/Desktop/Dotnet/obj/Debug/net6.0/Dotnet.AssemblyInfoInputs.cache
+/home/anand.prakash@happiestminds.com/Desktop/Dotnet/obj/Debug/net6.0/Dotnet.AssemblyInfo.cs
+/home/anand.prakash@happiestminds.com/Desktop/Dotnet/obj/Debug/net6.0/Dotnet.csproj.CoreCompileInputs.cache
+/home/anand.prakash@happiestminds.com/Desktop/Dotnet/bin/Debug/net6.0/Dotnet
+/home/anand.prakash@happiestminds.com/Desktop/Dotnet/bin/Debug/net6.0/Dotnet.deps.json
+/home/anand.prakash@happiestminds.com/Desktop/Dotnet/bin/Debug/net6.0/Dotnet.runtimeconfig.json
+/home/anand.prakash@happiestminds.com/Desktop/Dotnet/bin/Debug/net6.0/Dotnet.dll
+/home/anand.prakash@happiestminds.com/Desktop/Dotnet/bin/Debug/net6.0/Dotnet.pdb
+/home/anand.prakash@happiestminds.com/Desktop/Dotnet/obj/Debug/net6.0/Dotnet.dll
+/home/anand.prakash@happiestminds.com/Desktop/Dotnet/obj/Debug/net6.0/refint/Dotnet.dll
+/home/anand.prakash@happiestminds.com/Desktop/Dotnet/obj/Debug/net6.0/Dotnet.pdb
+/home/anand.prakash@happiestminds.com/Desktop/Dotnet/obj/Debug/net6.0/Dotnet.genruntimeconfig.cache
+/home/anand.prakash@happiestminds.com/Desktop/Dotnet/obj/Debug/net6.0/ref/Dotnet.dll
